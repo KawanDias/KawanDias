@@ -43,7 +43,7 @@ A mobile application developed as an academic and personal project, focused on p
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kawan.iffinder&hl=pt_BR)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/AndroidAppTemplate2025_2)
 
-### ⛓️ [SPECTRO Protocol](https://github.com/KawanDias/SPECTRO_PROTOCOL)
+### ⛓️ SPECTRO Protocol
 
 A blockchain protocol project focused on synchronous proof execution and cross-chain asset transfers, exploring interoperability and secure on-chain operations.
 
