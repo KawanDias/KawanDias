@@ -12,13 +12,13 @@ I have hands-on experience in IT support, institutional communication, and audio
 
 ## 💻 Tech Stack & Tools
 
-**Languages**
+**Languages & Databases**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=fff) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=fff) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=fff)
 
 **Web & Mobile Development**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
 
 **Blockchain & Web3**
 
@@ -26,11 +26,11 @@ I have hands-on experience in IT support, institutional communication, and audio
 
 **Game Development & Design**
 
-![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=fff) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
+![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=fff) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 
 **Environment & Systems**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000) ![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000) ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
 
 ---
 
@@ -47,13 +47,13 @@ A mobile application developed as an academic and personal project, focused on p
 
 A blockchain protocol project focused on synchronous proof execution and cross-chain asset transfers, exploring interoperability and secure on-chain operations.
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/SPECTRO_PROTOCOL)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/SPECTRO_PROTOCOL)
 
 ### 🏠 DOMUS
 
 A proptech venture exploring blockchain-based verification and escrow mechanisms to support safer, more transparent real estate transactions.
 
-[![Documentation](https://img.shields.io/badge/Project_Documentation-2F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/domus-docs)
+[![Project Documentation](https://img.shields.io/badge/Project_Documentation-2F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/domus-docs)
 
 ### 🛒 Atelie-Maria-Dias
 
