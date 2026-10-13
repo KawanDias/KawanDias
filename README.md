@@ -56,7 +56,7 @@ A full-stack e-commerce website built from the frontend to the backend, integrat
 
 An independent game developed entirely by me using Unity. This project reflects my experience with C#, game mechanics, implementation, and bringing a game project from concept to a playable release.
 
-### 🖥️ [PSU Calculator & Bottleneck Analyzer](https://github.com/KawanDias/psu-calculator)
+### 🖥️ [PSU Calculator & Bottleneck Analyzer](https://psu-calculator-xi.vercel.app/)
 
 An interactive web application for estimating power supply requirements and exploring potential hardware bottlenecks, built with HTML5 and Tailwind CSS.
 
