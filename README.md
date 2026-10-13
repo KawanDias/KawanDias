@@ -40,7 +40,7 @@ I have hands-on experience in IT support, institutional communication, and audio
 
 Mobile application developed as an academic and personal project, with a focus on mobile software development and practical application features. I am the project's founder and sole developer.
 
-### ⛓️ [SPECTRO Protocol](https://github.com/KawanDias/AndroidAppTemplate2025_2)
+### ⛓️ [SPECTRO Protocol](https://github.com/KawanDias/SPECTRO_PROTOCOL)
 
 A blockchain protocol project focused on synchronous proof execution and cross-chain asset transfers, exploring interoperability and secure on-chain operations.
 
