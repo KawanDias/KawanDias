@@ -48,7 +48,7 @@ A blockchain protocol project focused on synchronous proof execution and cross-c
 
 A proptech venture exploring blockchain-based verification and escrow mechanisms to support safer, more transparent real estate transactions.
 
-### 🛒 [Atelie-Maria-Dias](https://github.com/KawanDias/atelie-mariaDias)
+### 🛒 [Atelie-Maria-Dias](https://atelie-maria-dias-g4fs.vercel.app/)
 
 A full-stack e-commerce website built from the frontend to the backend, integrating Firebase for database and application services, WhatsApp integration for purchase inquiries, and Vercel for deployment.
 
