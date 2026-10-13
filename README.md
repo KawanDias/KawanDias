@@ -18,7 +18,11 @@ I have hands-on experience in IT support, institutional communication, and audio
 
 **Web & Mobile Development**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
+
+**Machine Learning & Data Processing**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=fff) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=000) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff)
 
 **Blockchain & Web3**
 
@@ -75,6 +79,16 @@ An interactive web application for estimating power supply requirements and expl
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://psu-calculator-xi.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/psu-calculator)
 
+### 🤖 Human Activity Recognition — Machine Learning
+
+An academic machine learning project developed at IFPR to recognize human movement patterns using triaxial accelerometer data. The project combines signal preprocessing, feature extraction, frequency-domain analysis, UMAP dimensionality reduction, and Random Forest classification.
+
+The model achieved **97.78% accuracy** on a holdout test set of 45 samples, correctly classifying 44 samples across three activity classes: Rest, Put Away Object, and Turn Page.
+
+**Technologies:** Python, NumPy, SciPy, FFT, UMAP, Random Forest.
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/human-activity-recognition-ml)
+
 ---
 
 ## 💼 Experience & Background
@@ -84,6 +98,7 @@ An interactive web application for estimating power supply requirements and expl
 - **Full-Stack Development:** Building web applications with frontend, backend services, databases, third-party integrations, and deployment.
 - **Blockchain Development:** Smart contracts, Web3 infrastructure, and protocol design.
 - **Independent Game Development:** Unity and C# development, including my own playable game project.
+- **Machine Learning & Data Processing:** Academic experience with accelerometer data, signal processing, feature extraction, and supervised classification.
 
 ## 📜 Certifications & Training
 
@@ -105,6 +120,6 @@ An interactive web application for estimating power supply requirements and expl
 
 ## 🤝 Let's Connect
 
-I'm interested in software development, mobile applications, full-stack engineering, blockchain security, and opportunities to build useful technology.
+I'm interested in software development, mobile applications, full-stack engineering, blockchain security, machine learning, and opportunities to build useful technology.
 
 Feel free to explore my repositories and projects!
