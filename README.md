@@ -13,7 +13,7 @@ I have hands-on experience in IT support, institutional communication, and audio
 ## 💻 Tech Stack & Tools
 
 **Languages**
- 
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=fff) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff)
 
 **Web & Mobile Development**
@@ -26,7 +26,7 @@ I have hands-on experience in IT support, institutional communication, and audio
 
 **Game Development & Design**
 
-![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=fff) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
+![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=fff) ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 
 **Environment & Systems**
 
@@ -36,29 +36,44 @@ I have hands-on experience in IT support, institutional communication, and audio
 
 ## 🚀 Featured Projects
 
-### 📱 [IFFinder](https://github.com/KawanDias/AndroidAppTemplate2025_2)
+### 📱 IFFinder — Android Application
 
-Mobile application developed as an academic and personal project, with a focus on mobile software development and practical application features. I am the project's founder and sole developer.
+A mobile application developed as an academic and personal project, focused on practical mobile software development. I am the project's founder and sole developer.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.kawan.iffinder&hl=pt_BR)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/AndroidAppTemplate2025_2)
 
 ### ⛓️ [SPECTRO Protocol](https://github.com/KawanDias/SPECTRO_PROTOCOL)
 
 A blockchain protocol project focused on synchronous proof execution and cross-chain asset transfers, exploring interoperability and secure on-chain operations.
 
-### 🏠 [DOMUS](https://github.com/KawanDias/domus-docs)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/SPECTRO_PROTOCOL)
+
+### 🏠 DOMUS
 
 A proptech venture exploring blockchain-based verification and escrow mechanisms to support safer, more transparent real estate transactions.
 
-### 🛒 [Atelie-Maria-Dias](https://atelie-maria-dias-g4fs.vercel.app/)
+[![Documentation](https://img.shields.io/badge/Project_Documentation-2F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/domus-docs)
 
-A full-stack e-commerce website built from the frontend to the backend, integrating Firebase for database and application services, WhatsApp integration for purchase inquiries, and Vercel for deployment.
+### 🛒 Atelie-Maria-Dias
 
-### 🎮 [Undead Zone](https://kawdeveloper.itch.io/undead-zone)
+A full-stack e-commerce website built from frontend to backend, integrating Firebase for database and application services, WhatsApp integration for purchase inquiries, and Vercel for deployment.
 
-An independent game developed entirely by me using Unity. This project reflects my experience with C#, game mechanics, implementation, and bringing a game project from concept to a playable release.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://atelie-maria-dias-g4fs.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/atelie-mariaDias)
 
-### 🖥️ [PSU Calculator & Bottleneck Analyzer](https://psu-calculator-xi.vercel.app/)
+### 🎮 Undead Zone
+
+An independent game developed entirely by me using Unity. This project demonstrates my hands-on experience with C#, game mechanics, implementation, and taking a game from concept to a playable release.
+
+[![Play on itch.io](https://img.shields.io/badge/Play_on_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://kawdeveloper.itch.io/undead-zone)
+
+### 🖥️ PSU Calculator & Bottleneck Analyzer
 
 An interactive web application for estimating power supply requirements and exploring potential hardware bottlenecks, built with HTML5 and Tailwind CSS.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://psu-calculator-xi.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KawanDias/psu-calculator)
 
 ---
 
@@ -77,6 +92,8 @@ An interactive web application for estimating power supply requirements and expl
 - Advanced Foundry
 - Web3 Wallet Security
 - Cisco Networking Basics
+
+---
 
 ## 📊 GitHub Statistics
 
