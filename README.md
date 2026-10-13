@@ -44,7 +44,7 @@ Mobile application developed as an academic and personal project, with a focus o
 
 A blockchain protocol project focused on synchronous proof execution and cross-chain asset transfers, exploring interoperability and secure on-chain operations.
 
-### 🏠 [DOMUS](https://github.com/KawanDias/domus-docs)
+### 🏠 [DOMUS](https://github.com/KawanDias/SPECTRO_PROTOCOL)
 
 A proptech venture exploring blockchain-based verification and escrow mechanisms to support safer, more transparent real estate transactions.
 
