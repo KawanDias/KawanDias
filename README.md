@@ -1,3 +1,7 @@
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KawanDias&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 # Hello, World! 👋 I'm Kawan Dias Carneiro
 
 **Full-Stack & Mobile Developer | Blockchain & Web3 Enthusiast | Game Developer**
